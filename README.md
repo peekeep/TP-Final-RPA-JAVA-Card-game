@@ -27,7 +27,7 @@ Java
 4. Run the program.
 
 ## Once executed, the game runs in the terminal and the user can interact by following the instructions displayed on the screen.
------------------------------------------------------------------------------------------
+
 ## Resumen en español
 
 **Nombre del proyecto:** Juego de cartas  
