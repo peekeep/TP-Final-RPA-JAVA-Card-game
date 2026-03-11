@@ -56,4 +56,4 @@ Java
 3. Compilar el programa desde la terminal.
 4. Ejecutar el programa.
 
-Una vez ejecutado, el juego se desarrollará en la terminal y el usuario podrá interactuar siguiendo las instrucciones que aparecen en pantalla.
+## Una vez ejecutado, el juego se desarrollará en la terminal y el usuario podrá interactuar siguiendo las instrucciones que aparecen en pantalla.
