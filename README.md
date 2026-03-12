@@ -16,7 +16,8 @@ Java
 
 **What I learned:**  
 - Teamwork and collaboration.  
-- Experience using different basic programming structures in Java.  
+- Experience using different basic programming structures in Java.
+- Code documentation. 
 - Presenting and explaining the project orally.
 
 ## How to run the program
@@ -46,7 +47,8 @@ Java
 
 **Lo que aprendí:**  
 - Trabajo en equipo.  
-- Experiencia utilizando diferentes estructuras básicas de programación en Java.  
+- Experiencia utilizando diferentes estructuras básicas de programación en Java.
+- Documentación de código. 
 - Defensa y explicación del proyecto de manera oral.
 
 ## Cómo ejecutar el programa
